@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "express": "^4.16.2",
+    "protobufjs": "^6.8.4",
+    "request": "^2.83.0"
+  },
+  "name": "trimet-gtfs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Wade Johnson",
+  "license": "MIT"
+}
